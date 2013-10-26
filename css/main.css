@@ -302,3 +302,21 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+#main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  height: 180px;
+}
+h1 {
+  font-size: 3em;
+  letter-spacing: -.05em;
+}
+h2 {
+  font-weight: 100;
+}
